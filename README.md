@@ -7,8 +7,8 @@
 - Переключение года, месяца, дня.
 - Переключение года, месяца, дня
 - При клике на конкретную дату в календаре будет возвращать дату в виде "YYYY-MM-DD".
-- Добавлена возможность смены языка на английский язык (EN/RU слева сверху от календаря). ***!не сохраняется при перезагрзке страницы***
-- Светлая и темная тема для страницы с сохранением предпочтений при перезагрузке страницы.
+- Добавлена возможность смены языка на английский язык (EN/RU слева сверху от календаря).
+- Светлая и темная тема для страницы с сохранением предпочтений при перезагрузке страницы. ***!это единственный параметр, который сохраняется при перезагрзке страницы***
 
 Vercel демо: https://calendar-vue-tau.vercel.app/
 
@@ -22,8 +22,8 @@ Features:
 - Clicking on a specific date in the calendar will return the date in the "YYYY-MM-DD" format.
 - Switching between year, month, and day views.
 - Switch between year, month, and day.
-- Clicking on a specific date in the calendar returns the date in "YYYY-MM-DD" format. ***!not persisted on page reload***
+- Clicking on a specific date in the calendar returns the date in "YYYY-MM-DD" format.
 - Language toggle available (EN/RU) at the top left of the calendar.
-- Light and dark themes for the page with preferences saved on page reload.
+- Light and dark themes for the page with preferences saved on page reload. ***!This is the only parameter that is preserved when the page is reloaded***
 
 Vercel demo: https://calendar-vue-tau.vercel.app/
