@@ -1,6 +1,6 @@
 <script setup>
 import {computed, onMounted, ref, watch} from "vue";
-import Calendar from "@/components/calendar/Calendar.vue";
+import Calendar from "@/components/Calendar/Calendar.vue";
 import UIButton from "@/components/UI/button/UIButton.vue";
 import {SunDim, Moon} from 'lucide-vue-next';
 
