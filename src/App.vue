@@ -50,7 +50,7 @@ watch(
                 </div>
 
                 <div class="flex justify-center gap-4">
-                    <div class="flex flex-col justify-center items-center gap-2">
+                    <div class="flex flex-wrap flex-col justify-center items-center gap-2">
                         <span class="border border-slate-300 px-2 py-0.5">{{ preparedDateString }}</span>
                         <Calendar v-model:date-string="preparedDateString"/>
                     </div>
